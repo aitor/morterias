@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'LeagueGothicRegular';
+  src: url('League_Gothic.eot');
+  src: local('League Gothic'), local('LeagueGothic'), url('League_Gothic.woff') format('woff'), url('League_Gothic.ttf') format('truetype'), url('League_Gothic.svg#LeagueGothic') format('svg');
+}
+                        
+@font-face {
+  font-family: 'ProcionoRegular';
+  src: url('Prociono.eot');
+  src: local('Prociono'), local('Prociono-Regular'), url('Prociono.woff') format('woff'), url('Prociono.svg#Prociono-Regular') format('svg');
+}
